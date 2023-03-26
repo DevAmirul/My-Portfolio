@@ -483,7 +483,7 @@ section {
 }
 
 .skills .progress .skill {
-  padding: 10px 0px;
+  /* padding: 10px 0px; */
   margin: 0px;
   text-transform: uppercase;
   display: block;
@@ -895,7 +895,8 @@ section {
 .services .icon-box {
   text-align: center;
   padding: 20px;
-  background: rgb(255, 255, 255);
+  /* background: rgb(255, 255, 255); */
+  background: rgb(247, 248, 249);
   box-shadow: rgba(110, 123, 131, 0.05) 0px 5px 90px 0px;
   transition: all 1000ms ease 0s;
   border-radius: 10px;
@@ -1336,6 +1337,10 @@ section {
   background-color: rgb(220, 133, 0) !important;
 }
 
+.redis {
+  background-color: rgb(213, 54, 44) !important;
+}
+
 .livewire {
   background-color: rgb(243, 108, 164) !important;
 }
@@ -1345,7 +1350,7 @@ section {
 }
 
 .alpine {
-  background-color: rgb(44, 50, 63) !important;
+  background-color: rgb(119, 193, 210) !important;
 }
 
 .bootstarp {
