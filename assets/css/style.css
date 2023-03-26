@@ -897,7 +897,7 @@ section {
   padding: 20px;
   /* background: rgb(255, 255, 255); */
   background: rgb(247, 248, 249);
-  box-shadow: rgba(110, 123, 131, 0.05) 0px 5px 90px 0px;
+  box-shadow: 10px 11px 20px -15px rgba(0, 0, 0, 0.58) !important;
   transition: all 1000ms ease 0s;
   border-radius: 10px;
 }
