@@ -1334,7 +1334,7 @@ section {
 }
 
 .mysql {
-  background-color: rgb(220, 133, 0) !important;
+  background-color: rgb(0, 117, 143) !important;
 }
 
 .redis {
@@ -1359,4 +1359,8 @@ section {
 
 .tailwind {
   background-color: rgb(56, 189, 248) !important;
+}
+
+.cdeIgniter {
+  background-color: rgb(221, 72, 20) !important;
 }
